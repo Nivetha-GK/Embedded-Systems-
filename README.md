@@ -1,4 +1,4 @@
-# Embedded-Systems-
+# Raspberry Pi4-
 Smart Traffic Management System
 
  Conventional traffic management systems do not account for dynamic traffic density
