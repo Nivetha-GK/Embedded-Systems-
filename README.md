@@ -14,11 +14,16 @@ threatening situations.
  4. Environmental Impact– Excessive idling of vehicles due to poor traffic
  management results in unnecessary fuel consumption and increased CO2
  emissions.
+ 
  This project aims to develop a real-time adaptive traffic light system to optimize
  signal control and improve road safety using AI-driven image processing and
  intelligent decision-makingThe system enhances traffic management by:
+ 
   Adjusting signal duration based on vehicle density using YOLOv8.
+ 
   Detecting emergency vehicles and granting immediate green signal priority.
+ 
   Implementing pedestrian button control for safer crossings.
+
   Utilizing a client-server communication model for efficient processing and
  real-time decision-making.
